@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ring: theme(colors.brand.500);
+}
+/* nice default selection */
+::selection { background: #dbeafe; }
