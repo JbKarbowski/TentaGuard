@@ -9,7 +9,7 @@ function Nav() {
           <span className="font-semibold tracking-tight">Tentaguard</span>
         </a>
         <nav className="hidden md:flex items-center gap-6 text-sm">
-          <a href="#how" className="hover:text-brand-700">Jak to działa</a>
+          <a href="#how" className="hover:text-brand-700">Jak to DZIAŁA</a>
           <a href="#benefits" className="hover:text-brand-700">Dlaczego my</a>
           <a href="#pricing" className="hover:text-brand-700">Cennik</a>
           <a href="#contact" className="inline-flex items-center gap-2 bg-brand-600 text-white px-4 py-2 rounded-xl shadow hover:bg-brand-700 transition">Umów rozmowę</a>
