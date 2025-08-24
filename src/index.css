@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  --ring: theme(colors.brand.500);
+  --ring: theme(colors.brand.background);
 }
 /* nice default selection */
 ::selection { background: #dbeafe; }
